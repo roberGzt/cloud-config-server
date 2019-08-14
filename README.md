@@ -1,1 +1,1 @@
-# lab-3-server
+# spring cloud config server de ejemplo
